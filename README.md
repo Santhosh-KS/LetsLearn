@@ -8,4 +8,5 @@ Date: 24/09/2022
 2. Linux Terminal
 3. Basic Linux Commands.
 4. Creating Github Account and Making Changes to the file via Github GUI.
+5. Editing Markdown Files (Online playground https://dillinger.io/)
 
